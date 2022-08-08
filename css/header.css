@@ -1,0 +1,24 @@
+.cabeçalho {
+    background-color: var(--branco);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.cabeçalho__menu-hamburguer {
+    width: 48px;
+    height: 48px;
+    background-image: url("../img/Menu.svg");
+    display: inline-block;
+    background-position: center;
+}
+
+.container__imagem {
+    padding: 0.3em;
+}
