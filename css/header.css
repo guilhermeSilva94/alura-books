@@ -12,6 +12,10 @@
     margin: 0 auto;
 }
 
+.imagem-logo {
+    margin-left: 1em;
+}
+
 .cabeçalho__menu-hamburguer {
     width: 48px;
     height: 48px;
@@ -21,7 +25,7 @@
 }
 
 .container__imagem {
-    padding: 1em;
+    padding: 0.3em;
 }
 
 .lista-menu {
@@ -29,6 +33,7 @@
     position: absolute;
     top: 100%;
     width: 60vw;
+    left: 0%;
 }
 
 .container__botao:checked ~ .lista-menu {
@@ -44,6 +49,7 @@
 
 .lista-menu__titulo {
     color: var(--laranja);
+    font-weight: 700;
 }
 
 .lista-menu__link {
@@ -52,4 +58,8 @@
     -webkit-text-fill-color: transparent;
     background-clip: text;
     text-transform: uppercase;
+}
+
+.container__botao {
+    display: none;
 }
