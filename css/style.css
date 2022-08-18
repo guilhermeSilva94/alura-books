@@ -12,12 +12,8 @@
     --azul-degrade: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
     --fonte-principal: "Poppins";
     --azul: #002f52;
-}
-
-* {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
+    --fonte-secundario: "Josefin Sans";
+    --preto: black;
 }
 
 body {

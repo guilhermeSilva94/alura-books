@@ -28,8 +28,8 @@
     font-family: var(--fonte-principal);
     font-size: 14px;
     font-weight: 400;
+    text-align: center;
     color: var(--branco);
-    text-align: right;
     background: url("../img/Lupa.svg") no-repeat;
-    background-position: 35px;
+    background-position: 1em;
 }
