@@ -10,7 +10,7 @@ Quarto projeto da formação HTML e CSS
 | :fire: Desafio     | -
 
 
-![](https://raw.githubusercontent.com/guilhermeSilva94/alura-plus/master/img/logoSite.png#vitrinedev)
+![](https://raw.githubusercontent.com/guilhermeSilva94/alura-books/master/img/logoSite.png)
 
 ## Detalhes do projeto
 
@@ -23,4 +23,4 @@ Seu objetivo era colocar em prática a abordagem de responsividade com mobile-fi
 
 
 
-![](https://raw.githubusercontent.com/guilhermeSilva94/alura-plus/master/img/Pagina.png)
+![](https://raw.githubusercontent.com/guilhermeSilva94/alura-books/master/img/Pagina.png)
