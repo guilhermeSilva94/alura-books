@@ -16,7 +16,7 @@ Quarto projeto da formação HTML e CSS
 
 Projeto de um site responsivo feito a partir de um layout publicado no Figma usando HTML e CSS. 
 Esse foi o quarto projeto executado enquanto eu cursava a formação de HTML e CSS da Alura. 
-Seu objetivo era colocar em prática a abordagem de responsividade com mobile-first Nesse projeto aprendi:<br>
+Seu objetivo era colocar em prática a abordagem de responsividade com mobile-first. Nesse projeto aprendi:<br>
 <br>• A costumizar um "menu hambúrguer" sem JavaScript; <br>
 • A criar um carrossel usando uma API; <br>
 • A usar pseudo-classes e pseudo-elementos; <br>
