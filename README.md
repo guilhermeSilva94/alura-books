@@ -21,6 +21,19 @@ Seu objetivo era colocar em prática a abordagem de responsividade com mobile-fi
 • A criar um carrossel usando uma API; <br>
 • A usar pseudo-classes e pseudo-elementos; <br>
 
+## Screenshots
 
+## Desktop
+<p align="center">
+  <img src="./img/Pagina.png" align="center"></img>
+</p>
 
-![](https://raw.githubusercontent.com/guilhermeSilva94/alura-books/master/img/Pagina.png)
+## Tablet
+<p align="center">
+  <img width="600" src="./img/PaginaTablet.png" align="center"></img>
+</p>
+
+## Mobile
+<p align="center">
+  <img width="600" src="./img/PaginaMobile.png" align="center"></img>
+</p>
