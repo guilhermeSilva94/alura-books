@@ -10,8 +10,6 @@ Quarto projeto da formação HTML e CSS
 | :fire: Desafio     | -
 
 
-![](https://raw.githubusercontent.com/guilhermeSilva94/alura-books/master/img/logoSite.png)
-
 ## Detalhes do projeto
 
 Projeto de um site responsivo feito a partir de um layout publicado no Figma usando HTML e CSS. 
